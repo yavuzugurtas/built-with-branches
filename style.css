@@ -15,3 +15,7 @@ footer {
 p {
   font-family: fantasy;
 }
+
+.interesting {
+  list-style-type: square;
+}

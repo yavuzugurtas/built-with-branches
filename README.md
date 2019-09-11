@@ -14,6 +14,14 @@ Learning to create and merge branches is only the beginning.  The trickier and m
 
 If you're having trouble visualizing the branches in this repository, try taking a look at [the network visualization](https://help.github.com/en/articles/viewing-a-repositorys-network) in the "insights" tab.
 
+> these changes were made on ```master``` after merging ```aside-info```
+
+But wait!  How are forks different from branches?  It's true that these are very similar, but the difference is important.
+* Forks allow different github users to store their own copy of an entire GitHub repository and work on the project without effecting the main repository.
+* Branches allow one user to make changes in their repository (fork) without effecting the master branch.
+
+So a simple way to understand the difference at first is that forks have the same purpose as branches, but at a higher level.  This will take some practice to really wrap your head around and that's totally normal!
+
 
 ---
 ---

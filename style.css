@@ -1,0 +1,13 @@
+header {
+  border-style: none none solid none;
+}
+
+footer {
+  border-style: solid none none none;
+}
+
+.footer-img {
+  width: 80px;
+  height: 80px;
+  margin-top: 10px;
+}

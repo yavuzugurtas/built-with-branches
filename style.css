@@ -11,3 +11,7 @@ footer {
   height: 80px;
   margin-top: 10px;
 }
+
+p {
+  font-family: fantasy;
+}

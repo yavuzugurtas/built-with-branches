@@ -22,6 +22,10 @@ But wait!  How are forks different from branches?  It's true that these are very
 
 So a simple way to understand the difference at first is that forks have the same purpose as branches, but at a higher level.  This will take some practice to really wrap your head around and that's totally normal!
 
+> these changes were made on ```master``` before merging ```final-touches```
+
+That's all the words for now, get studying!
+
 
 ---
 ---

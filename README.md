@@ -10,6 +10,10 @@ Can you replicate it exactly?  Not just the code, but the branches and commits!
 
 Learning to create and merge branches is only the beginning.  The trickier and more important skill is lining up your branches with the steps of incremental development.
 
+> these changes were made on ```master``` before merging ```interesting-links```
+
+If you're having trouble visualizing the branches in this repository, try taking a look at [the network visualization](https://help.github.com/en/articles/viewing-a-repositorys-network) in the "insights" tab.
+
 
 ---
 ---

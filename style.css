@@ -56,3 +56,12 @@ aside {
 .aside-text {
   font-family: monospace;
 }
+
+section#trees-overview section {
+    display: flex;
+    flex-direction: row;
+}
+
+section#trees-overview article {
+    flex: 1;
+}

@@ -28,8 +28,30 @@ This will take some practice to really wrap your head around and that's totally 
 
 > these changes were made on ```master``` before merging ```final-touches```
 
-That's all the words for now, get studying!
+### Exercises
 
+Before starting the exercises make sure to fork this repository and clone the repository locally from your fork.
+
+#### Add some trees
+
+- Create a new branch called ```trees``` and checkout that branch.
+- Add a ```section``` above the ```footer``` with some pictures (```<img />```) of your favourite trees.
+- Commit and push the changes.
+- Checkout the ```master``` branch.
+- Merge the ```trees``` branch into the ```master``` branch.
+- Push the merge to the remote ```master```
+
+#### Combining trees
+
+*please complete the exercise above this first*
+
+- Checkout the ```master```
+- Merge in the changes from the ```extra-info```
+- You should get a conflict right now. Why ? Because a commit on the ```extra-info``` branch also added a section of trees.
+- Resolve the conflict and make sure to only have 1 ```section``` of trees. 
+- Push the result.
+
+That's all the words for now.
 
 ---
 ---
